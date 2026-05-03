@@ -1,4 +1,4 @@
-# Metasploitable 2 Assessment
+# Metasploitable 2 Explotion
 
 This project documents a security assessment of the Metasploitable 2 lab machine.
 
